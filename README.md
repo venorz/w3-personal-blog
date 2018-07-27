@@ -106,19 +106,19 @@ PATH = 'content'
 TIMEZONE = 'Europe/Moscow'
 DEFAULT_LANG = u'ru'
 
-ARCHIVES_TEXT = u'Архив'
-ARTICLESCATEGORY_TEXT = u'Статьи в категории'
-ARTICLESTAG_TEXT = u'Статьи с тегом'
-AUTHOR_TEXT = u'Автор'
-AUTHORS_TEXT = u'Авторы'
-CATEGORIES_TEXT = u'Категории'
-CATEGORY_TEXT = u'Категория'
-TAGS_TEXT = u'Теги'
-COMMENTS_TEXT = u'Комментарии'
-CONTENT_TEXT = u'Содержимое'
-FIRST_TEXT = u'первая'
-LAST_TEXT = u'последняя'
-READMORE_TEXT = u'далее...'
+ARCHIVES_TEXT = u'Archives'
+ARTICLESCATEGORY_TEXT = u'Articles in category'
+ARTICLESTAG_TEXT = u'Articles with tag'
+AUTHOR_TEXT = u'Author'
+AUTHORS_TEXT = u'Authors'
+CATEGORIES_TEXT = u'Categories'
+CATEGORY_TEXT = u'Category'
+TAGS_TEXT = u'Tags'
+COMMENTS_TEXT = u'Comments'
+CONTENT_TEXT = u'Content'
+FIRST_TEXT = u'first'
+LAST_TEXT = u'last'
+READMORE_TEXT = u'read more...'
 
 # Feed generation is usually not desired when developing
 FEED_DOMAIN = SITEURL
@@ -133,7 +133,6 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ('<i class="fa-li fa fa-vk"></i> ВКонтакте', 'https://vk.com/id44829586'),
     ('<i class="fa-li fa fa-facebook"></i> Facebook', 'https://www.facebook.com/samael500'),
     ('<i class="fa-li fa fa-twitter"></i> Twitter', 'https://twitter.com/samael500'),
     ('<i class="fa-li fa fa-github"></i> Github', 'https://github.com/samael500'),
