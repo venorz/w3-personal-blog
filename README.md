@@ -94,17 +94,17 @@ It is my pelicanconf.py file:
 from __future__ import unicode_literals
 import datetime
 
-AUTHOR = u'Maks'
-SITENAME = u'Maks blog'
+AUTHOR = u'venorz'
+SITENAME = u'venorz blog'
 # SITESUBTITLE = u'Samael500'
 SITEURL = 'https://samael500.github.io'
-KEYWORDS = u'Samael500 personal blog'
+KEYWORDS = u'Ven personal blog'
 
 PATH = 'content'
 
 # languages settings
-TIMEZONE = 'Europe/Moscow'
-DEFAULT_LANG = u'ru'
+TIMEZONE = 'Asia/Shanghai'
+DEFAULT_LANG = u'en'
 
 ARCHIVES_TEXT = u'Archives'
 ARTICLESCATEGORY_TEXT = u'Articles in category'
@@ -139,7 +139,7 @@ SOCIAL = (
 )
 
 # TWITTER_USERNAME = 'samael500'
-GITHUB_URL = 'https://github.com/Samael500'
+GITHUB_URL = 'https://github.com/venorz'
 GOOGLE_CUSTOM_SEARCH = '006263355362628034990:cuxoisonrno'
 
 THEME = '../w3-personal-blog'
